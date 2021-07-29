@@ -1,0 +1,1042 @@
+/*--media query--*/
+@media screen and (max-width:320px) {
+
+    .search-box form {
+
+        width: 100%;
+    }
+    .call_back .col-lg-6{
+
+      margin-bottom: 15px;
+    }
+    .testimonials_partners_sec .col-lg-6,
+    .cases_sec .col-lg-3,
+    .news_sec .col-lg-4,
+     footer .col-lg-3,
+    .company_sec .col-lg-6:first-of-type,
+    .financial_sec .col-lg-6,
+    .team_sec .col-lg-,
+    .service_sec .col-lg-4{
+
+      margin-bottom: 30px;
+    }
+    .mix_list_sec ul,
+    .contact_us_pg .list ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+    }
+   /*--header--*/
+   .navbar-wrapper .navbar {
+    padding: 10px 0 0 0;
+   }
+
+   .navbar-wrapper  .inline {
+
+    display: block;
+    text-align: center;  
+    margin-bottom: 0.3rem;  
+   }
+   .navbar-wrapper .line-2{
+
+     float: unset !important;
+   }
+   .navbar-wrapper .navbar-toggler{
+
+    display: block !important;
+    
+   }
+   .navbar-wrapper .navbar  .mynav{
+    position: fixed;
+    z-index:5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    opacity:0.9;
+    overflow-y: hidden;
+    transition: 0.5s;
+    background-color:#ffffff;
+    
+}
+.navbar-wrapper .navbar  .closebtn{
+
+    display:block;
+    color:#0d0d0d;
+    font-size:40px;
+    float:right;
+    padding-right:20px;
+}
+.navbar-wrapper .navbar .closebtn:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar  .navbar-nav{
+   
+    text-align: center;
+   
+}
+
+.navbar-wrapper .navbar-nav .nav-item .nav-link{
+
+    color:#0d0d0d;
+    display: block;
+    font-size:18px;
+    font-weight: 600;
+   
+}
+.navbar-wrapper .navbar-nav .nav-item .nav-link:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar-nav .nav-item:last-child .nav-link {
+    
+    margin:0 auto;
+}
+/*--//header--*/
+
+/*--Home Page--*/
+/*-- carousel--*/
+.carousel .carousel-caption .content {
+
+    padding-top:120px;
+}
+.carousel .carousel-caption h1 {
+    font-size:27px;
+}
+.carousel .carousel-caption p {
+    font-size: 15px;
+}
+/*--//carousel--*/
+/*-- video--*/
+.video{
+
+    height: 100vh;
+}
+/*--//video--*/
+/*--choose--*/
+.choose_sec .col-lg-6:first-of-type {
+    padding-right: 0;
+}
+
+.choose_sec .content {
+    padding: 40px 0 0;
+}
+
+/*--//choose--*/
+/*--testimonials--*/
+.testimonials_partners_sec .content {
+    
+    padding-left: 0;
+}
+.testimonials_partners_sec .partners_image img {
+     width:100% !important;
+    height: 100% !important;
+}
+/*--//testimonials--*/
+/*--cases--*/
+.cases_sec .image img {
+    height: 270px;
+}
+/*--//cases--*/
+/*--//Home Page--*/
+/*--About Page--*/
+/*--company--*/
+.company_sec .text ul {
+
+    display: block !important;
+    margin:0 auto;
+    text-align: center;
+
+}
+.company_sec .text ul li {
+    padding-right:0;
+    padding-bottom:25px;
+}
+.company_sec .image img {
+    height:100%; 
+}
+/*--//company--*/
+/*--//About Page--*/
+/*--Cases Page--*/
+.mix_list_sec ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+}
+.mix_list_sec ul li a {
+
+    padding:0 0 10px;
+
+}
+.mix_sec .image img{
+
+    height: 100% !important;
+}
+/*--//Cases Page--*/
+/*--Contact Page--*/
+.contact_us_pg .list ul li {
+
+    border-right:unset !important;
+    border-bottom: 2px solid #80d4ff;
+    padding: 20px !important;
+    margin: 0 40px;
+    
+}
+/*--//Contact Page--*/
+}
+@media screen and (max-width:375px) and (min-width:321px) {
+     
+    .search-box form {
+        
+        width: 100%;
+    }
+    .call_back .col-lg-6{
+
+      margin-bottom: 15px;
+    }
+    .testimonials_partners_sec .col-lg-6,
+    .cases_sec .col-lg-3,
+    .news_sec .col-lg-4,
+    footer .col-lg-3,
+    .company_sec .col-lg-6:first-of-type,
+    .financial_sec .col-lg-6,
+    .team_sec .col-lg-3,
+    .service_sec .col-lg-4{
+
+      margin-bottom: 30px;
+    }
+    .mix_list_sec ul,
+    .contact_us_pg .list ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+    }
+   /*--header--*/
+   .navbar-wrapper .navbar {
+    padding: 10px 0 0 0;
+   }
+
+   .navbar-wrapper  .inline {
+
+    display: block;
+    text-align: center;  
+    margin-bottom: 0.3rem;  
+   }
+   .navbar-wrapper .line-2{
+
+     float: unset !important;
+   }
+   .navbar-wrapper .navbar-toggler{
+
+    display: block !important;
+    
+   }
+   .navbar-wrapper .navbar  .mynav{
+    position: fixed;
+    z-index:5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    opacity:0.9;
+    overflow-y: hidden;
+    transition: 0.5s;
+    background-color:#ffffff;
+    
+}
+.navbar-wrapper .navbar  .closebtn{
+
+    display:block;
+    color:#0d0d0d;
+    font-size:40px;
+    float:right;
+    padding-right:20px;
+}
+.navbar-wrapper .navbar .closebtn:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar  .navbar-nav{
+   
+    text-align: center;
+   
+}
+
+.navbar-wrapper .navbar-nav .nav-item .nav-link{
+
+    color:#0d0d0d;
+    display: block;
+    font-size:18px;
+    font-weight: 600;
+   
+}
+.navbar-wrapper .navbar-nav .nav-item .nav-link:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar-nav .nav-item:last-child .nav-link {
+    
+    margin:0 auto;
+}
+/*--//header--*/
+/*--Home Page--*/
+/*-- carousel--*/
+.carousel .carousel-caption .content {
+
+    padding-top:80px;
+}
+.carousel .carousel-caption h1 {
+    font-size:27px;
+}
+.carousel .carousel-caption p {
+    font-size: 15px;
+}
+/*--//carousel--*/
+/*-- video--*/
+.video{
+
+    height: 100vh;
+}
+/*--//video--*/
+/*--choose--*/
+.choose_sec .col-lg-6:first-of-type {
+    padding-right: 0;
+}
+
+.choose_sec .content {
+    padding: 40px 0 0;
+}
+
+/*--//choose--*/
+/*--testimonials--*/
+.testimonials_partners_sec .content {
+    
+    padding-left: 0;
+}
+.testimonials_partners_sec .partners_image img {
+    width:100% !important;
+   height: 100% !important;
+}
+/*--//testimonials--*/
+/*--cases--*/
+.cases_sec .image img {
+    height: 270px;
+}
+/*--//cases--*/
+/*--//Home Page--*/
+/*--About Page--*/
+/*--company--*/
+.company_sec .text ul {
+
+    display: block !important;
+    margin:0 auto;
+    text-align: center;
+
+}
+.company_sec .text ul li {
+    padding-right:0;
+    padding-bottom:25px;
+}
+.company_sec .image img {
+    height:100%; 
+}
+/*--//company--*/
+/*--//About Page--*/
+/*--Cases Page--*/
+.mix_list_sec ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+}
+.mix_list_sec ul li a {
+
+    padding:0 0 10px;
+
+}
+.mix_sec .image img{
+
+    height: 100% !important;
+}
+/*--//Cases Page--*/
+/*--Contact Page--*/
+.contact_us_pg .list ul li {
+
+    border-right:unset !important;
+    border-bottom: 2px solid #80d4ff;
+    padding: 20px !important;
+    margin: 0 40px;
+
+}
+/*--//Contact Page--*/
+}
+@media screen and (max-width:425px) and (min-width:376px) {
+
+    .search-box form {
+        
+        width: 100%;
+    }
+    .call_back .col-lg-6{
+
+      margin-bottom: 15px;
+    }
+    .testimonials_partners_sec .col-lg-6,
+    .cases_sec .col-lg-3,
+    .news_sec .col-lg-4,
+    footer .col-lg-3,
+    .company_sec .col-lg-6:first-of-type,
+    .financial_sec .col-lg-6,
+    .team_sec .col-lg-3,
+    .service_sec .col-lg-4{
+
+      margin-bottom: 30px;
+    }
+    .mix_list_sec ul,
+    .contact_us_pg .list ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+    }
+   /*--header--*/
+   .navbar-wrapper .navbar {
+    padding: 10px 0 0 0;
+   }
+
+   .navbar-wrapper  .inline {
+
+    display: block;
+    text-align: center;  
+    margin-bottom: 0.3rem;  
+   }
+   .navbar-wrapper .line-2{
+
+     float: unset !important;
+   }
+   .navbar-wrapper .navbar-toggler{
+
+    display: block !important;
+    
+   }
+   .navbar-wrapper .navbar  .mynav{
+    position: fixed;
+    z-index:5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    opacity:0.9;
+    overflow-y: hidden;
+    transition: 0.5s;
+    background-color:#ffffff;
+    
+}
+.navbar-wrapper .navbar  .closebtn{
+
+    display:block;
+    color:#0d0d0d;
+    font-size:40px;
+    float:right;
+    padding-right:20px;
+}
+.navbar-wrapper .navbar .closebtn:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar  .navbar-nav{
+   
+    text-align: center;
+   
+}
+
+.navbar-wrapper .navbar-nav .nav-item .nav-link{
+
+    color:#0d0d0d;
+    display: block;
+    font-size:18px;
+    font-weight: 600;
+   
+}
+.navbar-wrapper .navbar-nav .nav-item .nav-link:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar-nav .nav-item:last-child .nav-link {
+    
+    margin:0 auto;
+}
+/*--//header--*/
+
+/*--Home Page--*/
+/*-- carousel--*/
+.carousel .carousel-caption .content {
+
+    padding-top: 60px;
+}
+.carousel .carousel-caption h1 {
+    font-size:27px;
+}
+.carousel .carousel-caption p {
+    font-size: 15px;
+}
+/*--//carousel--*/
+/*-- video--*/
+.video{
+
+    height: 100vh;
+}
+/*--//video--*/
+/*--choose--*/
+.choose_sec .col-lg-6:first-of-type {
+    padding-right: 0;
+}
+.choose_sec .content {
+    padding: 40px 0 0;
+}
+
+/*--//choose--*/
+/*--testimonials--*/
+.testimonials_partners_sec .content {
+    
+    padding-left: 0;
+}
+/*--//testimonials--*/
+/*--cases--*/
+.cases_sec .image img {
+    height: 270px;
+}
+/*--//cases--*/
+/*--//Home Page--*/
+/*--About Page--*/
+/*--company--*/
+.company_sec .text ul li {
+    padding-right: 15px;
+}
+.company_sec .image img {
+    height:100%; 
+}
+/*--//company--*/
+/*--//About Page--*/
+.mix_list_sec ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+}
+.mix_list_sec ul li a {
+
+    padding:0 0 10px;
+
+}
+.mix_sec .image img{
+
+    height: 100% !important;
+}
+/*--//Cases Page--*/
+/*--Contact Page--*/
+.contact_us_pg .list ul li {
+
+    border-right:unset !important;
+    border-bottom: 2px solid #80d4ff;
+    padding: 20px !important;
+    margin: 0 40px;
+
+}
+/*--//Contact Page--*/
+
+}
+@media screen and (max-width:575px) and (min-width:426px) {
+
+    .search-box form {
+        
+        width: 100%;
+    }
+    .call_back .col-lg-6{
+
+      margin-bottom: 15px;
+    }
+    .testimonials_partners_sec .col-lg-6,
+    .cases_sec .col-lg-3,
+    .news_sec .col-lg-4,
+     footer .col-lg-3,
+    .company_sec .col-lg-6:first-of-type,
+    .financial_sec .col-lg-6,
+    .team_sec .col-lg-3,
+    .service_sec .col-lg-4{
+
+      margin-bottom: 30px;
+    }
+    .mix_list_sec ul,
+    .contact_us_pg .list ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+    }
+   /*--header--*/
+   .navbar-wrapper .navbar {
+    padding: 10px 0 0 0;
+   }
+
+   .navbar-wrapper  .inline {
+
+    display: block;
+    text-align: center;
+    margin-bottom: 0.3rem;    
+   }
+   .navbar-wrapper .line-2{
+
+     float: unset !important;
+   }
+   .navbar-wrapper .navbar-toggler{
+
+    display: block !important;
+    
+   }
+   .navbar-wrapper .navbar  .mynav{
+    position: fixed;
+    z-index:5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    opacity:0.9;
+    overflow-y: hidden;
+    transition: 0.5s;
+    background-color:#ffffff;
+    
+}
+.navbar-wrapper .navbar  .closebtn{
+
+    display:block;
+    color:#0d0d0d;
+    font-size:40px;
+    float:right;
+    padding-right:20px;
+}
+.navbar-wrapper .navbar .closebtn:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar  .navbar-nav{
+   
+    text-align: center;
+   
+}
+
+.navbar-wrapper .navbar-nav .nav-item .nav-link{
+
+    color:#0d0d0d;
+    display: block;
+    font-size:18px;
+    font-weight: 600;
+   
+}
+.navbar-wrapper .navbar-nav .nav-item .nav-link:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar-nav .nav-item:last-child .nav-link {
+    
+    margin:0 auto;
+}
+/*--//header--*/
+
+/*--Home Page--*/
+/*-- carousel--*/
+.carousel .carousel-caption .content {
+
+    padding-top: 40px;
+}
+.carousel .carousel-caption h1 {
+    font-size: 40px;
+}
+/*--//carousel--*/
+/*-- video--*/
+.video{
+
+    height: 100vh;
+}
+/*--//video--*/
+/*--choose--*/
+.choose_sec .col-lg-6:first-of-type {
+    padding-right: 0;
+}
+
+.choose_sec .content {
+    padding: 40px 0 0;
+}
+
+/*--//choose--*/
+/*--testimonials--*/
+.testimonials_partners_sec .content {
+    
+    padding-left: 0;
+}
+/*--//testimonials--*/
+/*--cases--*/
+.cases_sec .image img {
+    height: 270px;
+}
+/*--//cases--*/
+/*--//Home Page--*/
+/*--About Page--*/
+/*--company--*/
+.company_sec .image img {
+    height:100%; 
+}
+/*--//company--*/
+/*--//About Page--*/
+/*--Cases Page--*/
+.mix_list_sec ul li a {
+
+    padding:0 0 10px;
+
+}
+.mix_sec .image img{
+
+    height: 100% !important;
+}
+/*--//Cases Page--*/
+/*--Contact Page--*/
+.contact_us_pg .list ul li {
+
+    border-right:unset !important;
+    border-bottom: 2px solid #80d4ff;
+    padding: 20px !important;
+    margin: 0 40px;
+
+}
+/*--//Contact Page--*/
+}
+@media screen and (max-width:768px) and (min-width:576px) {
+   
+
+    .search-box form {
+        
+        width: 80%;
+    }
+    .call_back .col-lg-6{
+
+      margin-bottom: 15px;
+    }
+    .testimonials_partners_sec .col-lg-6,
+    .cases_sec .col-lg-3,
+    .news_sec .col-lg-4,
+    .company_sec .col-lg-6:first-of-type,
+    .financial_sec .col-lg-6,
+    .team_sec .col-lg-3,
+    .service_sec .col-lg-4{
+
+       margin-bottom: 30px;
+    
+    }
+   /*--header--*/
+   .navbar-wrapper  .inline {
+
+    display: block;
+    text-align: center;  
+    margin-bottom: 0.3rem;  
+   }
+   .navbar-wrapper .line-2{
+
+     float: unset !important;
+   }
+   .navbar-wrapper .navbar-toggler{
+
+    display: block !important;
+    
+   }
+   .navbar-wrapper .navbar  .mynav{
+    position: fixed;
+    z-index:5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    opacity:0.9;
+    overflow-y: hidden;
+    transition: 0.5s;
+    background-color:#ffffff;
+    
+}
+.navbar-wrapper .navbar  .closebtn{
+
+    display:block;
+    color:#0d0d0d;
+    font-size:40px;
+    float:right;
+    padding-right:20px;
+}
+.navbar-wrapper .navbar .closebtn:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar  .navbar-nav{
+   
+    text-align: center;
+   
+}
+
+.navbar-wrapper .navbar-nav .nav-item .nav-link{
+
+    color:#0d0d0d;
+    display: block;
+    font-size:18px;
+    font-weight: 600;
+   
+}
+.navbar-wrapper .navbar-nav .nav-item .nav-link:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar-nav .nav-item:last-child .nav-link {
+    
+    margin:0 auto;
+}
+/*--//header--*/
+
+/*--Home Page--*/
+/*-- carousel--*/
+.carousel .carousel-caption .content {
+
+    padding-top: 40px;
+}
+.slide,
+.slide img{
+ 
+    height:100vh;
+
+}
+.carousel .carousel-caption h1 {
+    font-size: 40px;
+}
+/*--//carousel--*/
+/*-- video--*/
+.video{
+
+    height: 100vh;
+}
+/*--//video--*/
+/*--choose--*/
+.choose_sec .col-lg-6:first-of-type {
+    padding-right: 0;
+}
+.choose_sec .content {
+    padding: 40px 0 0;
+}
+/*--//choose--*/
+/*--testimonials--*/
+.testimonials_partners_sec .content {
+    
+    padding-left: 0;
+}
+/*--//testimonials--*/
+/*--cases--*/
+.cases_sec .image img {
+    height: 270px;
+}
+/*--//cases--*/
+/*--//Home Page--*/
+/*--About Page--*/
+/*--company--*/
+.company_sec .image img {
+    height:100%; 
+}
+/*--//company--*/
+/*--//About Page--*/
+/*--Cases Page--*/
+.mix_list_sec ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+}
+.mix_list_sec ul li a {
+
+    padding:0 0 10px;
+
+}
+.mix_sec .image img{
+
+    height: 100% !important;
+}
+/*--//Cases Page--*/
+    
+}
+@media screen and (max-width:991px) and (min-width:769px) {
+     
+    .search-box form {
+        
+        width:80%;
+    }
+    .call_back .col-lg-6{
+
+      margin-bottom: 15px;
+    }
+    .testimonials_partners_sec .col-lg-6,
+    .cases_sec .col-lg-3,
+    .news_sec .col-lg-4,
+    .company_sec .col-lg-6:first-of-type,
+    .financial_sec .col-lg-6,
+    .team_sec .col-lg-3,
+    .service_sec .col-lg-4{
+
+      margin-bottom: 30px;
+    }
+   /*--header--*/
+   .navbar-wrapper .navbar-toggler{
+
+    display: block !important;
+
+   }
+   .navbar-wrapper .navbar  .mynav{
+    position: fixed;
+    z-index:5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    opacity:0.9;
+    overflow-y: hidden;
+    transition: 0.5s;
+    background-color:#ffffff;
+    
+}
+.navbar-wrapper .navbar  .closebtn{
+
+    display:block;
+    color:#0d0d0d;
+    font-size:40px;
+    float:right;
+    padding-right:20px;
+}
+.navbar-wrapper .navbar .closebtn:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar  .navbar-nav{
+   
+    text-align: center;
+   
+}
+
+.navbar-wrapper .navbar-nav .nav-item .nav-link{
+
+    color:#0d0d0d;
+    display: block;
+    font-size:18px;
+    font-weight: 600;
+   
+}
+.navbar-wrapper .navbar-nav .nav-item .nav-link:hover{
+
+    color:#80d4ff;
+}
+.navbar-wrapper .navbar-nav .nav-item:last-child .nav-link {
+    
+    margin:0 auto;
+}
+/*--//header--*/
+
+/*--Home Page--*/
+/*-- video--*/
+.video{
+
+    height: 100vh;
+}
+/*--//video--*/
+/*--choose--*/
+.choose_sec .col-lg-6:first-of-type {
+    padding-right: 0;
+}
+.choose_sec .content {
+    padding: 40px 0 0;
+}
+/*--//choose--*/
+/*--testimonials--*/
+.testimonials_partners_sec .content {
+
+     padding-left: 0;
+}
+/*--//testimonials--*/
+/*--cases--*/
+.cases_sec .image img {
+    height: 270px;
+}
+/*--//cases--*/
+/*--//Home Page--*/
+
+/*--About Page--*/
+/*--company--*/
+.company_sec .image img {
+    height:100%; 
+}
+/*--//company--*/
+/*--//About Page--*/
+/*--Cases Page--*/
+.mix_list_sec ul {
+
+    display: block !important;
+    margin: 0 auto;
+    text-align: center;
+}
+.mix_list_sec ul li a {
+
+    padding:0 0 10px;
+
+}
+.mix_sec .image img{
+
+    height: 100% !important;
+}
+/*--//Cases Page--*/
+
+}
+@media screen and (max-width:1024px) and (min-width:992px) {
+
+    /*--header--*/
+    .navbar-wrapper .navbar-nav .nav-item .nav-link {
+        
+        padding: 1rem 1rem !important;
+    }
+    /*--//header--*/
+    /*--Home Page--*/
+    /*--cases--*/
+    .cases_sec .image img {
+        height: 200px;
+    }
+    /*--//cases--*/
+    /*--//Home Page--*/
+    /*--About Page--*/
+    .company_sec .text ul li {
+        padding-right: 35px;
+    }
+    /*--//About Page--*/
+    /*--Cases Page--*/
+    .mix_list_sec ul li a {
+
+        padding: 0 30px;
+    }
+    /*--//Cases Page--*/
+
+}
+@media screen and (max-width:1200px) and (min-width:1025px) {
+
+    .navbar-wrapper .navbar-nav .nav-item .nav-link {
+
+        padding: 1rem !important;
+
+    }
+      /*--About Page--*/
+      .company_sec .text ul li {
+        padding-right: 35px;
+    }
+    /*--//About Page--*/
+
+}
+/*--//media query--*/
